@@ -1,4 +1,4 @@
-# ARIMA Forecasting for Solar Production in Texas (ERCOT)
+# ARIMA Forecasting for Solar Energy Production in Texas (ERCOT)
 
 ## Overview
 
